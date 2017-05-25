@@ -9,5 +9,11 @@
     <artifactId>hibernate-core</artifactId>
     <version>5.2.7.Final</version>
 </dependency>
+      <dependency>
+    <groupId>org.talend.esb.job</groupId>
+    <artifactId>org.talend.esb.job.api</artifactId>
+    <version>6.1.1</version>
+</dependency>
+
   </dependencies>
 </project>
